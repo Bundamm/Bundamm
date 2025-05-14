@@ -1,6 +1,19 @@
 ## Hi there 👋, I'm Tomek 
 
-I'm currently learning
+<h2>I'm currently learning:</h2>
+<p align="left">
+<img
+src="https://www.vectorlogo.zone/logos/dotnet/dotnet-tile.svg" alt="dotnet" width="45" height="45"/>
+<img
+src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springboot" width="45" height="45"/>
+<img
+src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="45"
+height="45"/>
+<img
+src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="45"
+height="45"/>
+</p>
+
 
 ```yaml
 name: Tomasz Szewa
@@ -19,7 +32,7 @@ interests:
 learning: [".NET", "Unity", "Spring Boot"]
 currently_working_on: ["Fishing game for my Engineer's degree"]
 goals for 2025: ["Make a few short games, and try to make a few web projects with the use of .NET"]
-hobbies: ["Gaming", "Tarantulas", "Assembling model kits", "Math"]
+hobbies: ["Gaming", "Tarantulas", "Assembling model kits", "Making my own games"]
 
 ```
 
