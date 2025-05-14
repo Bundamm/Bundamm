@@ -1,5 +1,7 @@
 ## Hi there 👋, I'm Tomek 
 
+I'm currently learning
+
 ```yaml
 name: Tomasz Szewa
 located_in: Grudziądz, Poland
@@ -20,6 +22,8 @@ goals for 2025: ["Make a few short games, and try to make a few web projects wit
 hobbies: ["Gaming", "Tarantulas", "Assembling model kits", "Math"]
 
 ```
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bundamm)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Bundamm/Bundamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
