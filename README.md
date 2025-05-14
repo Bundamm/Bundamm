@@ -1,4 +1,25 @@
-## Hi there 👋
+## Hi there 👋, I'm Tomek 
+
+```yaml
+name: Tomasz Szewa
+located_in: Grudziądz, Poland
+education:
+  [
+    "University of Warmia and Mazury Information Technology"
+  ]
+interests:
+  [
+    "Game Development",
+    "Web Development",
+    "Programming in Java/C#",
+    "Data Science"
+  ]
+learning: [".NET", "Unity", "Spring Boot"]
+currently_working_on: ["Fishing game for my Engineer's degree"]
+goals for 2025: ["Make a few short games, and try to make a few web projects with the use of .NET"]
+hobbies: ["Gaming", "Tarantulas", "Assembling model kits", "Math"]
+
+```
 
 <!--
 **Bundamm/Bundamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
